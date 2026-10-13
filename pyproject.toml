@@ -45,9 +45,9 @@ dev = [
 
 [project.urls]
 Homepage = "https://smallpict.app"
-Repository = "https://github.com/tuxnoob/smallpict-python"
+Repository = "https://github.com/smallPict/smallpict-python"
 Documentation = "https://smallpict.app/docs/sdks/python"
-Changelog = "https://github.com/tuxnoob/smallpict-python/blob/main/CHANGELOG.md"
+Changelog = "https://github.com/smallPict/smallpict-python/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["smallpict"]
